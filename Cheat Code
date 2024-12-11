@@ -2,7 +2,7 @@
 // @name         Premium Blooket Cheats
 // @namespace    https://github.com/kn3ghtfall/blooket-cheats-premium
 // @version      1.0
-// @description  Premium Blooket Cheats
+// @description  Everyone is right in their own eyes
 // @downloadURL  https://greasyfork.org/en/scripts/520375-premium-blooket-cheats
 // @author       Kn3ghtfall
 // @match        *://*.blooket.com/*
@@ -7263,12 +7263,12 @@ w("Gold quest", "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-Pre
 w("Cafe", "https://github.com/Kn3ghtfall/Blooket-Cheats-Premium/blob/main/System%20Images/Cafe.png?raw=true", C.cafe),
 w("Crypto Hack", "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-Premium/0806239406ed929da4d3ff15edd1bae15280ae2a/System%20Images/Crypto%20Hack.svg", C.crypto),
 w('<span style="font-size: 17px">Deceptive Dinos</span>', "https://github.com/Kn3ghtfall/Blooket-Cheats-Premium/blob/main/System%20Images/Deceptive%20DInos.png?raw=true", C.dinos),
-w('<span style="font-size: 18px">Tower Defense</span>', ['<img style="width: 30px; margin-right: 5px" src="https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-Premium/0806239406ed929da4d3ff15edd1bae15280ae2a/System%20Images/Tower%20Defense.svg">'], C.defense),
-w('<span style="font-size: 16px">Tower Defense 2</span>', ['<img style="width: 30px; margin-right: 5px; rotate: 45deg" src="https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-Premium/0806239406ed929da4d3ff15edd1bae15280ae2a/System%20Images/Tower%20Defense%202.svg">'], C.defense2),
+w('<span style="font-size: 18px">Tower Defense</span>', ['<img style="width: 30px; margin-right: 1px" src="https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-Premium/0806239406ed929da4d3ff15edd1bae15280ae2a/System%20Images/Tower%20Defense.svg">'], C.defense),
+w('<span style="font-size: 16px">Tower Defense 2</span>', ['<img style="width: 30px; margin-right: 1px; rotate: 45deg" src="https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-Premium/0806239406ed929da4d3ff15edd1bae15280ae2a/System%20Images/Tower%20Defense%202.svg">'], C.defense2),
 w("Factory", "https://github.com/Kn3ghtfall/Blooket-Cheats-Premium/blob/main/System%20Images/Factory.png?raw=true", C.factory),
 w('<span style="font-size: 19px">Fishing Frenzy</span>', "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-Premium/0806239406ed929da4d3ff15edd1bae15280ae2a/System%20Images/Fishing%20Frenzy.svg", C.fishing),
 w("Flappy Blook", "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-Premium/0806239406ed929da4d3ff15edd1bae15280ae2a/System%20Images/Flappy%20Blook.svg", C.flappy),
-w('<span style="font-size: 17px">Tower of Doom</span>', ['<img style="height: 30px; margin-left: 5px; margin-right: 10px" src="https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-Premium/0806239406ed929da4d3ff15edd1bae15280ae2a/System%20Images/Tower%20of%20doom.svg">'], C.doom),
+w('<span style="font-size: 17px">Tower of Doom</span>', ['<img style="height: 30px; margin-left: 1px; margin-right: 10px" src="https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-Premium/0806239406ed929da4d3ff15edd1bae15280ae2a/System%20Images/Tower%20of%20doom.svg">'], C.doom),
 w('<span style="font-size: 18px">Crazy Kingdom</span>', "https://github.com/Kn3ghtfall/Blooket-Cheats-Premium/blob/main/System%20Images/Crazy%20Kingdom.png?raw=true", C.kingdom),
 w("Racing", "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-Premium/0806239406ed929da4d3ff15edd1bae15280ae2a/System%20Images/Racing.svg", C.racing),
 w("Battle Royale", "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-Premium/0806239406ed929da4d3ff15edd1bae15280ae2a/System%20Images/Battle%20Royale.svg", C.royale),
