@@ -7273,7 +7273,7 @@ w('<span style="font-size: 18px">Crazy Kingdom</span>', "https://github.com/Kn3g
 w("Racing", "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-Premium/0806239406ed929da4d3ff15edd1bae15280ae2a/System%20Images/Racing.svg", C.racing),
 w("Battle Royale", "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-Premium/0806239406ed929da4d3ff15edd1bae15280ae2a/System%20Images/Battle%20Royale.svg", C.royale),
 w("Blook Rush", "https://github.com/Kn3ghtfall/Blooket-Cheats-Premium/blob/main/System%20Images/Blook%20Rush.png?raw=true", C.rush),
-w('<span style="font-size: 18px">Monster Brawl</span>', ['<img style="height: 28px; margin-left: 8px; margin-right: 8px" src="https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-Premium/0806239406ed929da4d3ff15edd1bae15280ae2a/System%20Images/Monster%20Brawl.svg">'], C.brawl),
+w('<span style="font-size: 18px">Monster Brawl</span>', ['<img style="height: 28px; margin-left: 1px; margin-right: 8px" src="https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-Premium/0806239406ed929da4d3ff15edd1bae15280ae2a/System%20Images/Monster%20Brawl.svg">'], C.brawl),
 w('<span style="font-size: 15px">Santa\'s Workshop</span>', "https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-Premium/refs/heads/main/System%20Images/Santa's%20Workshop.webp", C.workshop),
 w("Extras", "https://github.com/Kn3ghtfall/Blooket-Cheats-Premium/blob/main/System%20Images/Extra.png?raw=true", C.extras, !0),
 w("Settings", "https://github.com/Kn3ghtfall/Blooket-Cheats-Premium/blob/main/System%20Images/Settings.png?raw=true", C.settings, !0),
