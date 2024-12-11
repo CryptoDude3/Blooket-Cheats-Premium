@@ -1,14 +1,12 @@
 // ==UserScript==
-// @name         Premium Blooket Cheats 
+// @name         Premium Blooket Cheats
 // @namespace    https://github.com/kn3ghtfall/blooket-cheats-premium
-// @version      15.4.1
-// @description  Blooket Cheats Plus
-// @downloadURL
+// @version      1.0
+// @description  Blooket Cheats Premium
+// @downloadURL  https://greasyfork.org/en/scripts/520375-premium-blooket-cheats
 // @author       Kn3ghtfall
 // @match        *://*.blooket.com/*
 // @icon         https://github.com/Kn3ghtfall/Blooket-Cheats-Premium/blob/main/System%20Images/Favicon.png?raw=true
-// @grant        none
-// @require     https://raw.githubusercontent.com/Kn3ghtfall/Blooket-Cheats-Premium/refs/heads/main/Assets/Required
 // ==/UserScript==
 
 (async() => {
