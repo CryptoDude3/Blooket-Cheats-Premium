@@ -667,7 +667,7 @@
                 }
             }, {
                 name: "Use any Banner",
-                description: "Unlocked all banners",
+                description: "Unlock all banners",
                 inputs: [{
                         name: "Banner",
                         type: "options",
@@ -1038,7 +1038,7 @@
                 }
             }, {
                 name: "Simulate Unlock",
-                description: "Simulates unlocking a certian blook",
+                description: "Simulates unlocking a certain blook",
                 inputs: [{
                         name: "Blook (Case Sensitive)"
                     }
@@ -1228,7 +1228,7 @@
                 }
             }, {
                 name: "Change Blook Ingame",
-                description: "Changes your blook",
+                description: "Changes your blook ingame",
                 inputs: [{
                         name: "Blook",
                         type: "options",
@@ -2209,7 +2209,7 @@
                     setValForPlayer();
                 }
             }, {
-                name: "Send Ad Text",
+                name: "Send a Text",
                 description: "Sends a load of text to another player (This will override your blook!)",
                 inputs: [{
                         name: "Player",
@@ -2880,7 +2880,7 @@
                     })
                 }
             }, {
-                name: "Set Host Screen Text",
+                name: "Set Host Screen to Text",
                 description: "Makes the whole screen filled with text",
                 inputs: [{
                         name: "Text",
@@ -3005,7 +3005,7 @@
                     setValForPlayer();
                 }
             }, {
-                name: "Send Ad Text",
+                name: "Send a Text",
                 description: "Sends a load of text to another player (This will override your blook!)",
                 inputs: [{
                         name: "Player",
@@ -4547,7 +4547,7 @@
                 }
             }, {
                 name: "Set Lure",
-                description: "Sets fishing lure (range 1 - 5)",
+                description: "Sets fishing lure (Range 1 - 5)",
                 inputs: [{
                         name: "Lure (1 - 5)",
                         type: "number",
@@ -5298,7 +5298,7 @@
                     });
                 }
             }, {
-                name: "Send Ad Text",
+                name: "Send a Text",
                 description: "Sends a load of text to another player (This will override your blook!)",
                 inputs: [{
                         name: "Player",
@@ -5677,17 +5677,17 @@
                         },
                         init: function () {
                             document.body.parentNode.appendChild(e.menu).id = "tri-menu",
-                            e.newRange(e.limit, "limit", 0, .03125, 1, .125, e.updateBody),
-                            e.newRange(e.gap, "gap / distance", 0, 32, 512, 128, function () {
+                            e.newRange(e.limit, "Limit", 0, .03125, 1, .125, e.updateBody),
+                            e.newRange(e.gap, "Gap / Distance", 0, 32, 512, 128, function () {
                                 e.updateCSS(),
                                 e.updateBody()
                             }),
-                            e.newRange(e.sag, "sag",  - .25, .03125, .25, 0, e.updateCSS),
-                            e.newRange(e.fov, "field of view", 7, 1, 13, 10, e.updateBody),
-                            e.newCheckbox(e.flo, "force overflow", e.updateCSS),
+                            e.newRange(e.sag, "SAG",  - .25, .03125, .25, 0, e.updateCSS),
+                            e.newRange(e.fov, "Field of View", 7, 1, 13, 10, e.updateBody),
+                            e.newCheckbox(e.flo, "Force Overflow", e.updateCSS),
                             e.flo.setAttribute("checked", ""),
-                            e.newCheckbox(e.off, "flatten layers", e.updateCSS),
-                            e.newCheckbox(e.non, "flatten everything", e.updateCSS),
+                            e.newCheckbox(e.off, "Flatten Layers", e.updateCSS),
+                            e.newCheckbox(e.non, "Flatten Everything", e.updateCSS),
                             e.newButton(e.end, "Quit", e.quit),
                             e.newButton(e.tgl, "≡", e.toggle),
                             e.tgl.id = "tri-toggle",
@@ -6196,8 +6196,8 @@
                     })
                 }
             }, {
-                name: "Freeze Host :)",
-                description: "They aint coming back with this one",
+                name: "Freeze Host",
+                description: "They ain't coming back with this one",
                 run: function () {
                     var largeNumber = "99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999";
                     var t = Object.values(document.querySelector("body div[id] > div > div"))[1].children[0]._owner.stateNode;
