@@ -2,7 +2,7 @@
 // @name         Premium Blooket Cheats
 // @namespace    https://github.com/kn3ghtfall/blooket-cheats-premium
 // @version      1.0
-// @description  Everyone is right in their own eyes
+// @description  Money, Power, Respect
 // @downloadURL  https://greasyfork.org/en/scripts/520375-premium-blooket-cheats
 // @author       Kn3ghtfall
 // @match        *://*.blooket.com/*
@@ -6354,7 +6354,7 @@
 
                         const creditsList = [{
                                 name: "Kn3ghtfall",
-                                description: "Founder and Owner of Blooket Cheats Premium and Blooket Cheats GUI"
+                                description: "Founder and Owner of Premium Blooket Cheats and Blooket Cheats GUI"
                             }
                         ];
 
